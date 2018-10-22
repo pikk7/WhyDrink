@@ -44,14 +44,14 @@ public class MainActivity extends AppCompatActivity {
         SimpleDateFormat ft =new SimpleDateFormat ("M d");
         String data[] = ft.format(date).split(" ");
 
-        String month = String.valueOf(Integer.parseInt(data[0])-1);
+        String month = data[0];
         String day = data[1];
 
 
         BufferedReader reader;
         try {
             reader = new BufferedReader(
-                    new InputStreamReader(getAssets().open(month+"_"+day+".json"), "UTF-8"));
+                    new InputStreamReader(getAssets().open(month+"_"+day+".txt"), "UTF-8"));
 
             // do reading, usually loop until end of file reading
             String mLine;
@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 
         tv1.setText(getReason());
 
-        Button b = (Button) findViewById(R.id.nextRSN);
+        Button b = findViewById(R.id.nextRSN);
 
         b.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -87,11 +87,11 @@ public class MainActivity extends AppCompatActivity {
 
         Calendar calendar = Calendar.getInstance();
         calendar.setTimeInMillis(System.currentTimeMillis());
-        calendar.set(Calendar.HOUR_OF_DAY, 22);
-        calendar.set(Calendar.MINUTE,40);
-        alarmer.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(), AlarmManager.INTERVAL_FIFTEEN_MINUTES,notifyPendingIntent);
+        calendar.set(Calendar.HOUR_OF_DAY, 9);
+        calendar.set(Calendar.MINUTE, 0);
 
-
+        alarmer.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(),
+                AlarmManager.INTERVAL_DAY, notifyPendingIntent);
 
     }
 
