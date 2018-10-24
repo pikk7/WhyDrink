@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="DrinkTypes">
+        <item>BEER</item>
+        <item>WINE</item>
+        <item>VODKA</item>
+        <item>JAGER</item>
+        <item>WHISKEY</item>
+        <item>GIN</item>
+        <item>CHAMPAGNE</item>
+    </string-array>
+</resources>
