@@ -27,6 +27,7 @@ import java.util.LinkedList;
 public class MainActivity extends AppCompatActivity {
     //globalok amiket használok össze vissza
     static final LinkedList<String> reasons=new LinkedList<>();
+    private static final int NOTIFICATION_ID = 0;
     static int count=0;
 
     @RequiresApi(api = Build.VERSION_CODES.N)
@@ -37,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
       final TextView tv1 =findViewById(R.id.textView);
+        AlarmManager  alarmer = (AlarmManager)getSystemService(ALARM_SERVICE);
 
         tv1.setText(getReason());
 
@@ -51,20 +53,20 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-      /*  Intent notifyIntent = new Intent(this, AlarmReceiver.class);
+        Intent notifyIntent = new Intent(this, AlarmReceiver.class);
 
         final PendingIntent notifyPendingIntent = PendingIntent.getBroadcast
                 (this, NOTIFICATION_ID, notifyIntent, PendingIntent.FLAG_UPDATE_CURRENT);
-*/
+
         Calendar calendar = Calendar.getInstance();
         calendar.setTimeInMillis(System.currentTimeMillis());
         calendar.set(Calendar.HOUR_OF_DAY, 9);
         calendar.set(Calendar.MINUTE, 0);
-/*
+
         alarmer.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(),
                 AlarmManager.INTERVAL_DAY, notifyPendingIntent);
 
-        */
+        
         Button c = findViewById(R.id.toEQ);
 
         final Intent relativeCall=new Intent(getApplicationContext(),Equation.class);

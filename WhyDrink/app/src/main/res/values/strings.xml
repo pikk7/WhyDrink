@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Why Drink Today</string>
+    <string name="reason">GIVE ME ANOTHER REASON</string>
+    <string name="error_if_you_see_this">Error if you see this</string>
+</resources>
