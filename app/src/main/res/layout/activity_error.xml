@@ -10,7 +10,6 @@
         android:id="@+id/error"
         android:layout_width="305dp"
         android:layout_height="178dp"
-        android:text="@string/error_if_you_see_this"
         android:textAlignment="center"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"

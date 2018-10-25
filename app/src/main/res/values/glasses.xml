@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="glasses">
-        <item>glass</item>
-        <item>jug</item>
-        <item>shot</item>
+        <item>@string/glass</item>
+        <item>@string/jug</item>
+        <item>@string/shot</item>
     </string-array>
 </resources>

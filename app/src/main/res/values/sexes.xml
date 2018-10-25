@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> <string-array name="sexes">
-    <item>Male</item>
-    <item>Female</item>
+    <item>@string/male</item>
+    <item>@string/female</item>
 </string-array></resources>

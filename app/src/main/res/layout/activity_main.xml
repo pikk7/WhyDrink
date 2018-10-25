@@ -29,10 +29,10 @@
         android:layout_width="148dp"
         android:layout_height="59dp"
         android:layout_marginBottom="88dp"
-        android:text="@string/reason"
+        android:text="@string/nextRSN"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.466"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button

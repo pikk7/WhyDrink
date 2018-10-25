@@ -16,7 +16,7 @@ public class ErrorActivity extends AppCompatActivity {
 
         // Capture the layout's TextView and set the string as its text
         TextView resultText = findViewById(R.id.error);
-        String text=resultText.getText()+"\n"+message;
+        String text=message;
         resultText.setText(text);
 
     }

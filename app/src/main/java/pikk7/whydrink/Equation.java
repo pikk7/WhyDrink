@@ -34,7 +34,7 @@ public class Equation extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_equation);
-        //nem választó spinner
+
         drinks=new ArrayList<>();
         spinner =  findViewById(R.id.spinner);
 
@@ -71,13 +71,16 @@ public class Equation extends AppCompatActivity {
             public void onClick(View v) {
                 double Wt=0;
                 EditText weight=findViewById(R.id.weight);
-              if(!weight.getText().toString().equals("")) {
-                     Wt = Double.parseDouble(weight.getText().toString());
-              }else{
-                  Intent intent=new Intent(getBaseContext(),ErrorActivity.class);
-                  intent.putExtra(EXTRA_MESSAGE,"You have to give your weight");
-                  startActivity(intent);
-              }
+                try{ Wt = Double.parseDouble(weight.getText().toString());
+                }
+                catch (NumberFormatException ex){
+                    Log.e("Wt","Calculator button onClick",ex);
+                    Intent intent=new Intent(getBaseContext(),ErrorActivity.class);
+                    intent.putExtra(EXTRA_MESSAGE,getString(R.string.error_weight));
+                    startActivity(intent);
+
+                }
+
                 boolean male=false;
 
                 Spinner spinner =  findViewById(R.id.spinner);
@@ -87,19 +90,21 @@ public class Equation extends AppCompatActivity {
                }
                double DP=0;
                 EditText elapsedTime=findViewById(R.id.elapsedTime);
-                if(elapsedTime.getText().toString().equals("")) {
-                    Intent intent=new Intent(getApplicationContext(),ErrorActivity.class);
-                    intent.putExtra(EXTRA_MESSAGE, "You have to give the elapsed time from the start!");
-                    startActivity(intent);
-                }
-             //még nincs meg minden adat
-                DP = Double.parseDouble(elapsedTime.getText().toString());
+              try{ DP = Double.parseDouble(elapsedTime.getText().toString());
 
-                Spanned message = WidmarkFormula(toSD(drinks),male,Wt,DP);
+                  Spanned message = WidmarkFormula(toSD(drinks),male,Wt,DP);
 
-                 Intent intent=new Intent(getApplicationContext(),Result.class);
-                intent.putExtra(EXTRA_MESSAGE, message.toString());
-                startActivity(intent);
+                  Intent intent=new Intent(getApplicationContext(),Result.class);
+                  intent.putExtra(EXTRA_MESSAGE, message.toString());
+                  startActivity(intent);
+              }
+              catch (NumberFormatException ex){
+                  Log.e("DP","Calculator button onClick",ex);
+
+                  Intent intent=new Intent(getApplicationContext(),ErrorActivity.class);
+                  intent.putExtra(EXTRA_MESSAGE, getString(R.string.error_Count));
+                  startActivity(intent);
+              }
 
             }
         });
@@ -124,7 +129,6 @@ public class Equation extends AppCompatActivity {
 
         Spannable spannableString = new SpannableString(String.valueOf(equ));
 
-        //spannableString.setSpan(new ForegroundColorSpan(Color.RED),5,6, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
 
         return spannableString;
     }
@@ -135,20 +139,22 @@ public class Equation extends AppCompatActivity {
 
         TextView count = findViewById(R.id.count);
 
-        if (count.getText().toString().equals("")) {
-            Intent intent=new Intent(getBaseContext(),ErrorActivity.class);
-            intent.putExtra(EXTRA_MESSAGE,"You have to give the count of drinks");
-            startActivity(intent);
-        }else {
+        try {
             int db = Integer.parseInt(count.getText().toString());
             Drink current = new Drink(DrinkType.valueOf(spinnerDrink.getSelectedItem().toString()), db, Glasses.valueOf((spinnerGlass.getSelectedItem().toString())));
             drinks.add(current);
 
             count.setText("");
 
-          Toast.makeText(getApplicationContext(),current.drinkType.toString()+" "+current.db +" "+ current.glass.toString(), Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(),current.drinkType.toString()+" "+current.db +" "+ current.glass.toString(), Toast.LENGTH_SHORT).show();
 
+        }catch (NumberFormatException ex){
+            Log.e("Add","AddDrink onClick",ex);
+            Intent intent=new Intent(getBaseContext(),ErrorActivity.class);
+            intent.putExtra(EXTRA_MESSAGE,getString(R.string.error_Count));
+            startActivity(intent);
         }
+
 
     }
 }

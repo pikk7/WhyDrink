@@ -23,14 +23,13 @@
     <EditText
         android:id="@+id/weight"
         android:layout_width="wrap_content"
-        android:layout_height="0dp"
+        android:layout_height="48dp"
         android:layout_marginStart="3dp"
         android:layout_marginTop="8dp"
         android:ems="10"
         android:hint="@string/weight"
         android:importantForAutofill="no"
         android:inputType="numberDecimal"
-        android:labelFor="@id/weight"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -39,7 +38,7 @@
     <Spinner
         android:id="@+id/spinner"
         android:layout_width="211dp"
-        android:layout_height="0dp"
+        android:layout_height="48dp"
         android:layout_marginTop="16dp"
         android:importantForAutofill="no"
         app:layout_constraintEnd_toEndOf="parent"
@@ -50,7 +49,7 @@
     <Spinner
         android:id="@+id/spinnerDrink"
         android:layout_width="211dp"
-        android:layout_height="0dp"
+        android:layout_height="48dp"
         android:layout_marginTop="16dp"
         android:importantForAutofill="no"
         app:layout_constraintEnd_toEndOf="parent"
@@ -61,21 +60,21 @@
     <EditText
         android:id="@+id/count"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
         android:ems="10"
         android:hint="@string/drink_count"
+        android:importantForAutofill="no"
         android:inputType="numberDecimal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/spinnerGlasses"
-        android:importantForAutofill="no" />
+        app:layout_constraintTop_toBottomOf="@+id/spinnerGlasses" />
 
 
     <Spinner
         android:id="@+id/spinnerGlasses"
         android:layout_width="211dp"
-        android:layout_height="0dp"
+        android:layout_height="48dp"
         android:layout_marginTop="16dp"
         android:importantForAutofill="no"
         app:layout_constraintEnd_toEndOf="parent"

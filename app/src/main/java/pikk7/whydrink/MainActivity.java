@@ -23,13 +23,14 @@ import java.util.Calendar;
 import java.util.Collections;
 import java.util.Date;
 import java.util.LinkedList;
+import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
     //globalok amiket használok össze vissza
     static final LinkedList<String> reasons=new LinkedList<>();
     private static final int NOTIFICATION_ID = 0;
     static int count=0;
-
+    private  String LOCAL=Locale.getDefault().getLanguage();
     @RequiresApi(api = Build.VERSION_CODES.N)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -98,26 +99,48 @@ public void reasonsInput(){
 
 
     BufferedReader reader;
-    try {
-        reader = new BufferedReader(
-                new InputStreamReader(getAssets().open(month+"_"+day+".txt"), "UTF-8"));
+   String dir;
 
-        // do reading, usually loop until end of file reading
-        String mLine;
-        while ((mLine = reader.readLine()) != null && !mLine.equals("==Deaths==")&&!mLine.equals( "==Births==")) {
-            if(!mLine.equals("==Births==")&&!mLine.equals("==Events==")&& !mLine.equals("==Deaths==")){
-                reasons.add(mLine);
-                count++;
-            }
-        }
-    } catch (IOException e) {
-        Log.e("reasons adding",e.toString());
+    switch (LOCAL) {
+        case"hu":
+            dir="hu";
+            break;
+
+            default:
+                dir="en";
+                break;
     }
+
+        try {
+            reader = new BufferedReader(
+                    new InputStreamReader(getAssets().open(dir+"/"+month + "_" + day + ".txt"), "UTF-8"));
+
+            // do reading, usually loop until end of file reading
+            String mLine;
+            while ((mLine = reader.readLine()) != null && !mLine.equals("==Deaths==") && !mLine.equals("==Births==")) {
+                if (!mLine.equals("==Births==") && !mLine.equals("==Events==") && !mLine.equals("==Deaths==")) {
+                    reasons.add(mLine);
+                    count++;
+                }
+            }
+        } catch (IOException e) {
+            Log.e("reasons adding", e.toString());
+        }
+
     Collections.shuffle(reasons);
 }
     public  Spanned getReason(){
         reasonsInput();
-        String[] data=reasons.poll().split("\\s+",2);
+        String[] data;
+        if(LOCAL.equals("hu")){
+             data=reasons.poll().split(" – ",2);
+
+        }else {
+            data=reasons.poll().split("\\s+",2);
+        }
+    if(data.length==1){
+            return Html.fromHtml("<b><p>"+data[0]+"</p></b>");
+    }
         if(data[0].equals(" ")){
             String [] retval=data[1].split("\\s+",2);
             return Html.fromHtml("<b><p>"+retval[0]+"</p></b>"+retval[1]);
