@@ -28,8 +28,8 @@ public class AlarmReceiver extends BroadcastReceiver {
             PendingIntent contentPendingIntent = PendingIntent.getActivity
                     (context, NOTIFICATION_ID, contentIntent, PendingIntent.FLAG_UPDATE_CURRENT);
 
-
-        Spanned data2 = new MainActivity().getReason();
+//ez akkora bullshit mint a ház
+        Spanned data2 = new MainActivity().getReason(new MainActivity().place);
             //Build the notification
             Uri soundUri = Uri.parse("android.resource://pikk7.whydrink/" + R.raw.clink);
 

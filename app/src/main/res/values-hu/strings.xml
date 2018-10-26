@@ -9,7 +9,7 @@
     <string name="calcButtonText">Véralkohol számítás</string>
     <string name="weight">Tömeg (kg)</string>
     <string name="How_many">Mennyi óratelt el?</string>
-    <string name="startTIme">Eltelt idő</string>
+    <string name="startTime">Eltelt idő</string>
     <string name="drink_count">Darab</string>
     <string name="title_activity_result">Eredmény</string>
     <string name="action_settings">Beállítás</string>
@@ -29,4 +29,10 @@
     <string name="whiskey">whiskey</string>
     <string name="gin">gin</string>
     <string name="champagne">pezsgő</string>
+    <string name="glass_chose">Válassz mennyiséget!</string>
+    <string name="drink_chose">Mit ittál??</string>
+    <string name="sex">Nemed?</string>
+    <string name="array_end">Vége a listának. Megkeverem és újrakeverjük.</string>
+    <string name="prevRSN">ADD VISSZA AZ ELŐZŐT</string>
+
 </resources>

@@ -2,114 +2,151 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout2"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Equation">
+    tools:context=".Equation"
+    tools:layout_editor_absoluteY="25dp">
 
-    <Button
-        android:id="@+id/calculate"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginBottom="8dp"
-        android:importantForAutofill="no"
-        android:text="@string/calculate"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent" />
 
-    <EditText
-        android:id="@+id/weight"
-        android:layout_width="wrap_content"
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/weight_il"
+        android:layout_width="200dp"
         android:layout_height="48dp"
-        android:layout_marginStart="3dp"
+        android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:ems="10"
-        android:hint="@string/weight"
-        android:importantForAutofill="no"
-        android:inputType="numberDecimal"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/spinnerDrink"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/elapsedTime_il"
+        app:layout_constraintVertical_bias="0.0">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/weight"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="8dp"
+            android:ems="10"
+            android:hint="@string/weight"
+            android:inputType="numberDecimal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </android.support.design.widget.TextInputLayout>
+
 
     <Spinner
         android:id="@+id/spinner"
-        android:layout_width="211dp"
+        android:layout_width="200dp"
         android:layout_height="48dp"
-        android:layout_marginTop="16dp"
-        android:importantForAutofill="no"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/spinnerGlasses"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/spinnerDrink" />
 
+
     <Spinner
         android:id="@+id/spinnerDrink"
-        android:layout_width="211dp"
+        android:layout_width="200dp"
         android:layout_height="48dp"
-        android:layout_marginTop="16dp"
-        android:importantForAutofill="no"
+        app:layout_constraintBottom_toTopOf="@+id/spinner"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/count" />
+        app:layout_constraintTop_toBottomOf="@+id/weight_il" />
 
-    <EditText
-        android:id="@+id/count"
-        android:layout_width="wrap_content"
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/count_il"
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <EditText
+            android:id="@+id/count"
+            android:layout_width="235dp"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:hint="@string/drink_count"
+            android:inputType="numberDecimal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/spinnerGlasses_il" />
+    </android.support.design.widget.TextInputLayout>
+
+    <Spinner
+        android:id="@+id/spinnerGlasses"
+        android:layout_width="200dp"
         android:layout_height="48dp"
-        android:ems="10"
-        android:hint="@string/drink_count"
-        android:importantForAutofill="no"
-        android:inputType="numberDecimal"
+        app:layout_constraintBottom_toTopOf="@+id/addDrink"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinner" />
+
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/elapsedTime_il"
+        android:layout_width="200dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/count_il">
+
+        <EditText
+            android:id="@+id/elapsedTime"
+            android:layout_width="212dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:ems="10"
+            android:hint="@string/startTime"
+            android:inputType="numberDecimal"
+            android:singleLine="false"
+            app:layout_constraintBottom_toTopOf="@+id/spinnerGlasses_il"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.517"
+            app:layout_constraintStart_toStartOf="parent"
+
+            app:layout_constraintVertical_bias="0.142" />
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/addDrink"
+        android:layout_width="200dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:onClick="AddDrink"
+        android:text="@string/add_new_drink"
+        app:layout_constraintBottom_toTopOf="@+id/calculate"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/spinnerGlasses" />
 
-
-    <Spinner
-        android:id="@+id/spinnerGlasses"
-        android:layout_width="211dp"
-        android:layout_height="48dp"
-        android:layout_marginTop="16dp"
-        android:importantForAutofill="no"
+    <Button
+        android:id="@+id/calculate"
+        android:layout_width="0dp"
+        android:layout_height="51dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/calculate"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/elapsedTime" />
+        app:layout_constraintStart_toStartOf="parent" />
 
-    <EditText
-        android:id="@+id/elapsedTime"
-        android:layout_width="212dp"
-        android:layout_height="51dp"
-        android:layout_marginTop="8dp"
-        android:ems="10"
-        android:hint="@string/startTIme"
-        android:importantForAutofill="no"
-        android:inputType="numberDecimal"
-        android:singleLine="false"
-        app:layout_constraintBottom_toTopOf="@+id/spinner"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.517"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/weight"
-        app:layout_constraintVertical_bias="0.142" />
-
-    <Button
-        android:id="@+id/addDrink"
-        android:layout_width="228dp"
-        android:layout_height="68dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:onClick="AddDrink"
-        android:text="@string/add_new_drink"
-        app:layout_constraintBottom_toTopOf="@+id/calculate"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/spinner" />
 
 </android.support.constraint.ConstraintLayout>

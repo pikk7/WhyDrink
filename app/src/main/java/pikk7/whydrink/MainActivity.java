@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
     static final LinkedList<String> reasons=new LinkedList<>();
     private static final int NOTIFICATION_ID = 0;
     static int count=0;
+    static int place=0;
+
     private  String LOCAL=Locale.getDefault().getLanguage();
     @RequiresApi(api = Build.VERSION_CODES.N)
     @Override
@@ -41,18 +43,42 @@ public class MainActivity extends AppCompatActivity {
       final TextView tv1 =findViewById(R.id.textView);
         AlarmManager  alarmer = (AlarmManager)getSystemService(ALARM_SERVICE);
 
-        tv1.setText(getReason());
+        tv1.setText(getReason(place));
 
         Button b = findViewById(R.id.nextRSN);
 
         b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Spanned data=getReason();
+                Spanned data=getReason(place);
 
                 tv1.setText(data);
+                place++;
+                if(place==reasons.size()){
+                    place=0;
+                }
             }
         });
+
+        Button x=findViewById(R.id.prevRSN);
+        x.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try{
+                    place--;
+                    Spanned data=getReason(place);
+
+                    tv1.setText(data);
+                }catch(IndexOutOfBoundsException ex){
+                    place=reasons.size()-1;
+                    Spanned data=getReason(place);
+
+                    tv1.setText(data);
+                }
+
+            }
+        });
+
 
         Intent notifyIntent = new Intent(this, AlarmReceiver.class);
 
@@ -79,15 +105,19 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
     }
 public void reasonsInput(){
-        if(reasons.size()>0){
+    if(findViewById(R.id.nextRSN)!=null&&place==reasons.size()-1){
+
+        Toast.makeText(getApplicationContext(),R.string.array_end,Toast.LENGTH_SHORT).show();
+
+    }
+
+        if(reasons.size()!=0){
             return;
         }
-        if(findViewById(R.id.nextRSN)!=null){
-            Toast.makeText(getApplicationContext(),"End of the list. Shuffle and restart.",Toast.LENGTH_SHORT).show();
 
-        }
 
     Date date = new Date();
     SimpleDateFormat ft =new SimpleDateFormat ("M d");
@@ -117,11 +147,10 @@ public void reasonsInput(){
 
             // do reading, usually loop until end of file reading
             String mLine;
-            while ((mLine = reader.readLine()) != null && !mLine.equals("==Deaths==") && !mLine.equals("==Births==")) {
-                if (!mLine.equals("==Births==") && !mLine.equals("==Events==") && !mLine.equals("==Deaths==")) {
+            while ((mLine = reader.readLine()) != null ) {
                     reasons.add(mLine);
                     count++;
-                }
+
             }
         } catch (IOException e) {
             Log.e("reasons adding", e.toString());
@@ -129,15 +158,17 @@ public void reasonsInput(){
 
     Collections.shuffle(reasons);
 }
-    public  Spanned getReason(){
+    public  Spanned getReason(int place){
         reasonsInput();
+
         String[] data;
         if(LOCAL.equals("hu")){
-             data=reasons.poll().split(" – ",2);
+             data=reasons.get(place).split(" – ",2);
 
         }else {
-            data=reasons.poll().split("\\s+",2);
+            data=reasons.get(place).split("\\s+",2);
         }
+
     if(data.length==1){
             return Html.fromHtml("<b><p>"+data[0]+"</p></b>");
     }

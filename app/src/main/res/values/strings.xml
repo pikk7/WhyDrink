@@ -9,7 +9,7 @@
     <string name="calcButtonText">Calculate BAC</string>
     <string name="weight">Weight (kg)</string>
     <string name="How_many">How many hours elapsed?</string>
-    <string name="startTIme">Elapsed time from start</string>
+    <string name="startTime">Elapsed time from start</string>
     <string name="drink_count">Count</string>
     <string name="title_activity_result">Result</string>
     <string name="action_settings">Settings</string>
@@ -28,4 +28,9 @@
     <string name="whiskey">whiskey</string>
     <string name="gin">gin</string>
     <string name="champagne">champagne</string>
+    <string name="glass_chose">Choose amount</string>
+    <string name="drink_chose">What did you drink?</string>
+    <string name="sex">Your gender</string>
+    <string name="array_end">End of the list. Shuffle and restart.</string>
+    <string name="prevRSN">GIVE BACK THAT REASON</string>
 </resources>
