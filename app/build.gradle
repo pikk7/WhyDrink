@@ -14,8 +14,8 @@ android {
         applicationId "pikk7.whydrink"
         minSdkVersion 22
         targetSdkVersion 27
-        versionCode 6
-        versionName "0.4.1.0"
+        versionCode 8
+        versionName "0.5.0.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

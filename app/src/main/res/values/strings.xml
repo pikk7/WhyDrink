@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Why Drink Today</string>
-    <string name="nextRSN">GIVE ME ANOTHER REASON</string>
+    <string name="nextRSN">NEXT REASON</string>
     <string name="error_if_you_see_this">Error if you see this</string>
     <string name="title_activity_calculate">Blood Alcohol</string>
     <string name="calculate">Calculate</string>
@@ -31,6 +31,8 @@
     <string name="glass_chose">Choose amount</string>
     <string name="drink_chose">What did you drink?</string>
     <string name="sex">Your gender</string>
-    <string name="array_end">End of the list. Shuffle and restart.</string>
-    <string name="prevRSN">GIVE BACK THAT REASON</string>
+    <string name="array_end">End of the list and restart. Press the button for the restart!</string>
+    <string name="prevRSN">PREVIOUS REASON</string>
+    <string name="resetBTN">Reset data</string>
+    <string name="WTFBro">Please use the app normal way.</string>
 </resources>

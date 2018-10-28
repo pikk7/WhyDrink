@@ -1,50 +1,336 @@
-365  The Alemanni cross the Rhine and invade Gaul. Emperor Valentinian I moves to Paris to command the army and defend the Gallic cities.
-996  Emperor Otto III, Holy Roman Emperor|Otto III issues a deed to Gottschalk, Roman Catholic Archdiocese of Munich and Freising|Bishop of Freising, which is the oldest known document using the name ''Ostarrîchi'' (Austria in Old High German).
-1141  Empress Empress Matilda|Matilda's reign as 'Lady of the English' ends with Stephen, King of England|Stephen of Blois regaining the title of 'King of Kingdom of England|England'.
-1179  Philip II of France|Philip II is coronation|crowned as 'King of France in the Middle Ages|France'.
-1214  The port city of Sinop, Turkey|Sinope Siege of Sinope|surrenders to the Seljuq Turks.
-1503  Pope Julius II is elected.
-1512  The ceiling of the Sistine Chapel, painted by Michelangelo, is exhibited to the public for the first time.
-1520  The Strait of Magellan, the passage immediately south of mainland South America connecting the Pacific and the Atlantic Oceans, is first discovered and navigated by European explorer Ferdinand Magellan during the first recorded circumnavigation voyage.
-1555  French Huguenots establish the France Antarctique colony in present-day Rio de Janeiro, Brazil.
-1570  The All Saints' Flood (1570)|All Saints' Flood devastates the Dutch coast.
-1604  William Shakespeare's tragedy ''Othello'' is performed for the first time, at Whitehall Palace in London.
-1611  Shakespeare's play ''The Tempest'' is performed for the first time, at Whitehall Palace in London.
-1612  During the Time of Troubles, Polish troops are expelled from Moscow's Kitay-gorod by Russian troops under the command of Dmitry Pozharsky (22 October Old Style|O.S.) .
-1683  The British Crown Province of New York|colony of New York is subdivided into 12 List of counties in New York|counties.
-1765  The British Parliament enacts the Stamp Act 1765|Stamp Act on the Thirteen Colonies in order to help pay for British military operations in North America.
-1800  John Adams becomes the first President of the United States to live in the Executive Mansion (later renamed the White House).
-1848  In Boston, Massachusetts, the first medical school for women, Boston Female Medical School (which later merged with the Boston University School of Medicine), opens.
-1870  In the United States, the Weather Bureau (later renamed the National Weather Service) makes its first official Meteorology|meteorological forecast.
-1884  The Gaelic Athletic Association is set up in Hayes's Hotel in Thurles|Thurles, County Tipperary.
-1894   Buffalo Bill, 15 of his Indians, and Annie Oakley were filmed by Thomas Edison in his Edison's Black Maria|Black Maria Studio in West Orange, New Jersey.
-1896  A picture showing the bare breasts of a woman appears in ''National Geographic (magazine)|National Geographic'' magazine for the first time.
-1897  The first Library of Congress building opens its doors to the public; the library had previously been housed in the Congressional Reading Room in the U.S. Capitol.
-1901  Sigma Phi Epsilon, the largest national male collegiate Student fraternities and sororities in North America|fraternity, is established at University of Richmond|Richmond College, in Richmond, Virginia.
-1916  In Russia, Pavel Milyukov delivers in the State Duma the famous \"stupidity or treason\" speech, precipitating the downfall of the government of Boris Stürmer.
-1918    West Ukrainian People's Republic|Western Ukraine separates from Austria-Hungary.
-1920  American fishing schooner Esperanto (schooner)|Esperanto defeats the Canadian fishing schooner Delawana (schooner)|Delawana in the First International Fishing Schooner Championship Races in Halifax, Nova Scotia.
-1922  Abolition of the Ottoman sultanate: The last sultan of the Ottoman Empire, Mehmed VI, abdicates.
-1928  The ''Law on the Adoption and Implementation of the Turkish alphabet|Turkish Alphabet'', replaces the Arabic alphabet with the Latin alphabet.
-1937  Stalinism|Stalinists execute Pastor Paul Hamberg and seven members of Azerbaijan Soviet Socialist Republic|Azerbaijan's Lutheran community.
-1941  American photographer Ansel Adams takes a Moonrise, Hernandez, New Mexico|picture of a moonrise over the town of Hernandez, New Mexico that would become one of the most famous images in the history of photography.
-1945  The official North Korean newspaper, ''Rodong Sinmun'', is first published under the name ''Chongro''.
-1948    Athenagoras I of Constantinople|Athenagoras I, Ecumenical Patriarch of Constantinople, is enthroned.
-1950  Puerto Rico|Puerto Rican nationalists Griselio Torresola and Oscar Collazo Attempted assassination of Harry S. Truman|attempt to assassinate US President Harry S. Truman at Blair House.
-1950    Pope Pius XII claims papal infallibility when he formally dogmatic definition|defines the dogma of the Assumption of Mary.
-1952  Nuclear weapons testing: The United States successfully detonates Ivy Mike, the first thermonuclear device, at the Eniwetok atoll. The explosion had a yield of ten megatons TNT equivalent.
-1956  The Indian states Kerala, Andhra Pradesh, and Mysore State|Mysore are formally created under the States Reorganisation Act, 1956|States Reorganisation Act; Kanyakumari district is joined to Tamil Nadu from Kerala.
-1957  The Mackinac Bridge, the world's longest suspension bridge between anchorages at the time, opens to traffic connecting Michigan's upper and lower peninsulas.
-1960  While campaigning for President of the United States, John F. Kennedy announces his idea of the Peace Corps.
-1963  The Arecibo Observatory in Arecibo, Puerto Rico, with the largest radio telescope ever constructed, officially opens.
-1963    The 1963 South Vietnamese coup begins
-1968  The Motion Picture Association of America's Motion Picture Association of America film rating system|film rating system is officially introduced, originating with the ratings G, M, R, and X.
-1973  Watergate scandal: Leon Jaworski is appointed as the new Watergate Special Prosecutor.
-1973    The Indian state of Mysore is renamed as Karnataka to represent all the regions within Karunadu.
-1979  In Bolivia, Colonel Alberto Natusch executes a bloody coup d'état against the constitutional government of Wálter Guevara.
-1981  Antigua and Barbuda gains independence from the United Kingdom.
-1982  Honda becomes the first Asian automobile company to produce cars in the United States with the opening of its factory in Marysville, Ohio; a Honda Accord is the first car produced there.
-1984  After the assassination of Indira Gandhi, Prime Minister of India on 31 October 1984, by two of her Sikh bodyguards, anti-Sikh riots erupts.
-1987  British Rail Class 43 (HST) hits the record speed of 238 km/h for rail vehicles with on-board fuel to generate electricity for traction motors.
-1993  The Maastricht Treaty takes effect, formally establishing the European Union.
-2000  The Serbia and Montenegro|Republic of Serbia and Montenegro joins the United Nations.
+365 – The Alemanni cross the Rhine and invade Gaul. Emperor Valentinian I moves to Paris to command the army and defend the Gallic cities.
+996 – Emperor Otto III issues a deed to Gottschalk, Bishop of Freising, which is the oldest known document using the name Ostarrîchi (Austria in Old High German).
+1141 – Empress Matilda's reign as 'Lady of the English' ends with Stephen of Blois regaining the title of 'King of England'.
+1179 – Philip II is crowned as 'King of France'.
+1214 – The port city of Sinope surrenders to the Seljuq Turks.
+1503 – Pope Julius II is elected.
+1512 – The ceiling of the Sistine Chapel, painted by Michelangelo, is exhibited to the public for the first time.
+1520 – The Strait of Magellan, the passage immediately south of mainland South America connecting the Pacific and the Atlantic Oceans, is first discovered and navigated by European explorer Ferdinand Magellan during the first recorded circumnavigation voyage.
+1555 – French Huguenots establish the France Antarctique colony in present-day Rio de Janeiro, Brazil.
+1570 – The All Saints' Flood devastates the Dutch coast.
+1604 – William Shakespeare's tragedy Othello is performed for the first time, at Whitehall Palace in London.
+1611 – Shakespeare's play The Tempest is performed for the first time, at Whitehall Palace in London.
+1612 – During the Time of Troubles, Polish troops are expelled from Moscow's Kitay-gorod by Russian troops under the command of Dmitry Pozharsky (22 October O.S.) .
+1683 – The British Crown colony of New York is subdivided into 12 counties.
+1765 – The British Parliament enacts the Stamp Act on the Thirteen Colonies in order to help pay for British military operations in North America.
+1800 – John Adams becomes the first President of the United States to live in the Executive Mansion (later renamed the White House).
+1848 – In Boston, Massachusetts, the first medical school for women, Boston Female Medical School (which later merged with the Boston University School of Medicine), opens.
+1870 – In the United States, the Weather Bureau (later renamed the National Weather Service) makes its first official meteorological forecast.
+1884 – The Gaelic Athletic Association is set up in Hayes's Hotel in Thurles, County Tipperary.
+1894  – Buffalo Bill, 15 of his Indians, and Annie Oakley were filmed by Thomas Edison in his Black Maria Studio in West Orange, New Jersey.
+1896 – A picture showing the bare breasts of a woman appears in National Geographic magazine for the first time.
+1897 – The first Library of Congress building opens its doors to the public; the library had previously been housed in the Congressional Reading Room in the U.S. Capitol.
+1901 – Sigma Phi Epsilon, the largest national male collegiate fraternity, is established at Richmond College, in Richmond, Virginia.
+1916 – In Russia, Pavel Milyukov delivers in the State Duma the famous \"stupidity or treason\" speech, precipitating the downfall of the government of Boris Stürmer.
+1918   – Western Ukraine separates from Austria-Hungary.
+1920 – American fishing schooner Esperanto defeats the Canadian fishing schooner Delawana in the First International Fishing Schooner Championship Races in Halifax, Nova Scotia.
+1922 – Abolition of the Ottoman sultanate: The last sultan of the Ottoman Empire, Mehmed VI, abdicates.
+1928 – The Law on the Adoption and Implementation of the Turkish Alphabet, replaces the Arabic alphabet with the Latin alphabet.
+1937 – Stalinists execute Pastor Paul Hamberg and seven members of Azerbaijan's Lutheran community.
+1941 – American photographer Ansel Adams takes a picture of a moonrise over the town of Hernandez, New Mexico that would become one of the most famous images in the history of photography.
+1945 – The official North Korean newspaper, Rodong Sinmun, is first published under the name Chongro.
+1948   – Athenagoras I, Ecumenical Patriarch of Constantinople, is enthroned.
+1950 – Puerto Rican nationalists Griselio Torresola and Oscar Collazo attempt to assassinate US President Harry S. Truman at Blair House.
+1950   – Pope Pius XII claims papal infallibility when he formally defines the dogma of the Assumption of Mary.
+1952 – Nuclear weapons testing: The United States successfully detonates Ivy Mike, the first thermonuclear device, at the Eniwetok atoll. The explosion had a yield of ten megatons TNT equivalent.
+1956 – The Indian states Kerala, Andhra Pradesh, and Mysore are formally created under the States Reorganisation Act; Kanyakumari district is joined to Tamil Nadu from Kerala.
+1957 – The Mackinac Bridge, the world's longest suspension bridge between anchorages at the time, opens to traffic connecting Michigan's upper and lower peninsulas.
+1960 – While campaigning for President of the United States, John F. Kennedy announces his idea of the Peace Corps.
+1963 – The Arecibo Observatory in Arecibo, Puerto Rico, with the largest radio telescope ever constructed, officially opens.
+1963   – The 1963 South Vietnamese coup begins
+1968 – The Motion Picture Association of America's film rating system is officially introduced, originating with the ratings G, M, R, and X.
+1973 – Watergate scandal: Leon Jaworski is appointed as the new Watergate Special Prosecutor.
+1973   – The Indian state of Mysore is renamed as Karnataka to represent all the regions within Karunadu.
+1979 – In Bolivia, Colonel Alberto Natusch executes a bloody coup d'état against the constitutional government of Wálter Guevara.
+1981 – Antigua and Barbuda gains independence from the United Kingdom.
+1982 – Honda becomes the first Asian automobile company to produce cars in the United States with the opening of its factory in Marysville, Ohio; a Honda Accord is the first car produced there.
+1984 – After the assassination of Indira Gandhi, Prime Minister of India on 31 October 1984, by two of her Sikh bodyguards, anti-Sikh riots erupts.
+1987 – British Rail Class 43 (HST) hits the record speed of 238 km/h for rail vehicles with on-board fuel to generate electricity for traction motors.
+1993 – The Maastricht Treaty takes effect, formally establishing the European Union.
+2000 – The Republic of Serbia and Montenegro joins the United Nations.
+846 – Louis the Stammerer, Frankish king (d. 879)
+1339 – Rudolf IV, Duke of Austria (d. 1365)
+1351 – Leopold III, Duke of Austria (d. 1386)
+1419 – Albert II, Duke of Brunswick-Grubenhagen (d. 1485)
+1498 – Giovanni Ricci, Italian cardinal (d. 1574)
+1499 – Rodrigo of Aragon, Italian noble (d. 1512)
+1522 – Andrew Corbet, English landowner and politician (d. 1578)
+1526 – Catherine Jagiellon, queen of John III of Sweden (d. 1583)
+1527 – William Brooke, 10th Baron Cobham, English noble and politician (d. 1597)
+1530 – Étienne de La Boétie, French philosopher and judge (d. 1563)
+1539 – Pierre Pithou, French lawyer and scholar (d. 1596)
+1550 – Henry of Saxe-Lauenburg, Prince-Archbishop of Bremen, Prince-Bishop of Osnabruck and Paderborn (d. 1585)
+1585 – Jan Brożek, Polish mathematician, physician, and astronomer (d. 1652)
+1596 – Pietro da Cortona, Italian painter (d. 1669)
+1607 – Georg Philipp Harsdörffer, German poet and translator (d. 1658)
+1609 – Matthew Hale, Lord Chief Justice of England (d. 1676)
+1611 – François-Marie, comte de Broglie, Italian-French commander (d. 1656)
+1625 – Oliver Plunkett, Irish archbishop and saint (d. 1681)
+1636 – Nicolas Boileau-Despréaux, French poet and critic (d. 1711)
+1643 – John Strype, English priest, historian, and author (d. 1737)
+1661 – Florent Carton Dancourt, French actor and playwright (d. 1725)
+1666 – James Sherard, English botanist and curator (d. 1738)
+1720 – Toussaint-Guillaume Picquet de la Motte, French admiral (d. 1791)
+1727 – Ivan Shuvalov, Russian art collector and philanthropist (d. 1797)
+1752 – Józef Zajączek, Polish general, politician (d. 1826)
+1757 – Antonio Canova, Italian sculptor and educator (d. 1822)
+1762 – Spencer Perceval, English lawyer and politician, Prime Minister of the United Kingdom (d. 1812)
+1769 – Garlieb Merkel, German author and activist (d. 1850)
+1778 – Gustav IV Adolf of Sweden (d. 1837)
+1782 – F. J. Robinson, 1st Viscount Goderich, English politician, Prime Minister of the United Kingdom (d. 1859)
+1808 – John Taylor, English-American religious leader, 3rd President of The Church of Jesus Christ of Latter-day Saints (d. 1887)
+1831 – Harry Atkinson, English-New Zealand politician, 10th Prime Minister of New Zealand (d. 1892)
+1838 – 11th Dalai Lama (d. 1856)
+1839 – Ahmed Muhtar Pasha, Ottoman general and politician, 227th Grand Vizier of the Ottoman Empire (d. 1919)
+1847 – Emma Albani, Canadian-English soprano and actress (d. 1930)
+1847   – Hiệp Hòa, Vietnamese emperor (d. 1883)
+1849 – William Merritt Chase, American painter and educator (d. 1916)
+1859 – Charles Brantley Aycock, American educator, lawyer, and politician, 50th Governor of North Carolina (d. 1912)
+1862 – Johan Wagenaar, Dutch organist and composer (d. 1941)
+1864 – Princess Elisabeth of Hesse and by Rhine (d. 1918)
+1871 – Stephen Crane, American poet, novelist, and short story writer (d. 1900)
+1872 – Louis Dewis, Belgian-French painter (d. 1946)
+1877 – Roger Quilter, English composer (d. 1953)
+1878 – Konrad Mägi, Estonian painter and educator (d. 1925)
+1878   – Carlos Saavedra Lamas, Argentinian academic and politician, Nobel Prize laureate (d. 1959)
+1880 – Sholem Asch, Polish-American author and playwright (d. 1957)
+1880   – Grantland Rice, American journalist and poet (d. 1954)
+1880   – Alfred Wegener, German meteorologist and geophysicist (d. 1930)
+1881 – Perikles Ioannidis, Greek admiral (d. 1965)
+1886 – Hermann Broch, Austrian-American author and poet (d. 1951)
+1887 – L.S. Lowry, English painter and illustrator (d. 1976)
+1888 – George Kenner, German-American painter and illustrator (d. 1971)
+1888   – Michał Sopoćko, Polish cleric and academic (d. 1975)
+1889 – Hannah Höch, German painter and photographer (d. 1978)
+1889   – Philip Noel-Baker, Baron Noel-Baker, English academic and politician, Secretary of State for Commonwealth Relations, Nobel Prize laureate (d. 1982)
+1896 – Edmund Blunden, English author, poet, and critic (d. 1974)
+1898 – Arthur Legat, Belgian race car driver (d. 1960)
+1898   – Sippie Wallace, American singer-songwriter and pianist (d. 1986)
+1902 – Nordahl Grieg, Norwegian journalist, author, poet, and playwright (d. 1943)
+1902   – Eugen Jochum, German conductor (d. 1987)
+1903 – Max Adrian, Irish-born British actor (d. 1973)
+1904 – Laura LaPlante, American silent film actress (d. 1996)
+1905 – Paul-Émile Borduas, Canadian-French painter and educator (d. 1960)
+1906 – Johnny Indrisano, American boxer (d. 1968)
+1907 – Maxie Rosenbloom, American boxer (d. 1976)
+1911 – Mingun Sayadaw, Burmese monk and scholar (d. 1993)
+1911   – Henri Troyat, French historian and author (d. 2007)
+1912 – Gunther Plaut, German-Canadian rabbi and author (d. 2012)
+1914 – Moshe Teitelbaum, Romanian-American rabbi (d. 2006)
+1915   – Margaret Taylor-Burroughs, American painter, poet, and educator, co-founded the DuSable Museum of African American History (d. 2010)
+1917 – Zenna Henderson, American author (d.1983)
+1917   – Clarence E. Miller, American engineer and politician (d. 2011)
+1918 – Ken Miles, English-American race car driver (d. 1966)
+1919 – Hermann Bondi, English-Austrian mathematician and cosmologist (d. 2005)
+1920 – James J. Kilpatrick, American journalist and author (d. 2010)
+1920   – Ted Lowe, English sportscaster (d. 2011)
+1921 – John W. Peterson, American pilot and songwriter (d. 2006)
+1921   – Harald Quandt, German businessman (d. 1967)
+1922 – George S. Irving, American actor (d. 2016)
+1923 – Victoria de los Ángeles, Spanish soprano and actress (d. 2005)
+1923   – Gordon R. Dickson, Canadian-American author (d. 2001)
+1923   – Menachem Elon, German-Israeli academic and jurist (d. 2013)
+1923   – Carlos Páez Vilaró, Uruguayan painter and sculptor (d. 2014)
+1924 – Süleyman Demirel, Turkish engineer and politician, 9th President of Turkey (d. 2015)
+1924   – Jean-Luc Pépin, Canadian academic and politician, 19th Canadian Minister of Labour (d. 1995)
+1926 – Stephen Antonakos, Greek-American sculptor (d. 2013)
+1926   – Betsy Palmer, American actress and game show panelist (d. 2015)
+1927 – Vic Power, Puerto Rican-American baseball player and coach (d. 2005)
+1927 – Marcel Ophüls, documentary filmmaker
+1928 – James Bradford, American weightlifter (d. 2013)
+1929 – Nicholas Mavroules, American lawyer and politician (d. 2003)
+1930 – A. R. Gurney, American playwright and author (d. 2017)
+1930   – Russ Kemmerer, American baseball player and coach (d. 2014)
+1931 – Yossef Gutfreund, Israeli wrestler and coach (d. 1972)
+1931   – Shunsuke Kikuchi, Japanese composer
+1931   – Arne Pedersen, Norwegian footballer and manager (d. 2013)
+1932 – Al Arbour, Canadian ice hockey player and coach (d. 2015)
+1932   – Francis Arinze, Nigerian cardinal
+1933 – Antoine Kohn, Luxembourgian footballer and manager (d. 2012)
+1934 – Umberto Agnelli, Swiss-Italian businessman and politician (d. 2004)
+1934   – Gillian Knight, English soprano and actress
+1934   – William Mathias, Welsh pianist and composer (d. 1992)
+1935 – Gary Player, South African golfer and sportscaster
+1936   – Katsuhisa Hattori, Japanese composer and conductor
+1936   – Shizuka Kamei, Japanese lawyer and politician
+1937 – Bill Anderson, American country music singer-songwriter
+1938 – Nicholasa Mohr, Puerto Rican American Nuyorican writer
+1940   – Roger Kellaway, American pianist and composer
+1940 – Ramesh Chandra Lahoti, Indian lawyer and jurist, 35th Chief Justice of India
+1940   – Bruce Grocott, Baron Grocott, English academic and politician
+1940   – Barry Sadler, American sergeant, author, actor, and singer-songwriter (d. 1989)
+1941 – Alfio Basile, Argentinian footballer and manager
+1941   – Robert Foxworth, American actor and director
+1941   – John Pullin, English rugby player
+1942 – Larry Flynt, American publisher, founded Larry Flynt Publications
+1942   – Ralph Klein, Canadian journalist and politician, 12th Premier of Alberta (d. 2013)
+1942   – Marcia Wallace, American actress and comedian (d. 2013)
+1943 – Salvatore Adamo, Italian-Belgian singer-songwriter
+1943   – Jacques Attali, French economist and civil servant
+1944 – Kinky Friedman, American singer-songwriter and author
+1944   – Bobby Heenan, American wrestler, manager, and sportscaster (d. 2017)
+1944   – Rafic Hariri, Lebanese businessman and politician 60th Prime Minister of Lebanon (d. 2005)
+1945 – Narendra Dabholkar, Indian author and activist, founded Maharashtra Andhashraddha Nirmoolan Samiti (d. 2013)
+1945   – John Williamson, Australian singer-songwriter
+1946 – Ric Grech, British rock musician (d. 1990)
+1946   – Yuko Shimizu, Japanese graphic designer, created Hello Kitty
+1947 – Nick Owen, English journalist
+1947   – Jim Steinman, American songwriter and producer
+1948 – Phil Myre, Canadian ice hockey player and coach
+1948   – Amani Abeid Karume, Zanzibar accountant and politician, 6th President of Zanzibar
+1948   – Bill Woodrow, English sculptor and academic
+1949 – David Foster, Canadian singer-songwriter, keyboard player, and producer
+1949   – Michael D. Griffin, American physicist and engineer
+1949   – Belita Moreno, American actress and acting coach
+1950   – Robert B. Laughlin, American physicist and academic, Nobel Prize laureate
+1950   – Dan Peek, American singer-songwriter and musician (d. 2011)
+1951 – Ronald Bell, American singer-songwriter, saxophonist, and producer
+1951   – Fabrice Luchini, French actor and screenwriter
+1951   – Craig Serjeant, Australian cricketer and chemist
+1953 – Jan Davis, American engineer and astronaut
+1953   – Paul Wellings, English ecologist and academic
+1955 – Beth Leavel, American actress and singer
+1955   – Mike Mendoza, English radio host and politician
+1957 – Lyle Lovett, American singer-songwriter, guitarist, and producer
+1957   – Murray Pierce, New Zealand rugby player
+1958 – Mark Austin, English journalist
+1958   – Joe DeRenzo, American drummer, composer, and producer
+1958   – Robert Hart, English singer-songwriter
+1959 – Susanna Clarke, English author and educator
+1960 – Tim Cook, American businessman and engineer, current CEO of Apple Inc.
+1960   – Fernando Valenzuela, Mexican baseball player, coach, and sportscaster
+1961 – Louise Boije af Gennäs, Swedish author and screenwriter
+1961   – Anne Donovan, American basketball player and coach (d. 2018)
+1961   – Nicky Grist, Welsh race car driver
+1961   – Calvin Johnson, American singer-songwriter, guitarist, and producer
+1961   – Heng Swee Keat, Singaporean politician
+1962 – Sharron Davies, English swimmer
+1962   – Magne Furuholmen, Norwegian singer-songwriter and guitarist
+1962   – Anthony Kiedis, American singer-songwriter
+1963 – Rick Allen, English rock drummer (Def Leppard)
+1963   – Nita Ambani, Indian businesswoman
+1963   – Mark Hughes, Welsh footballer and manager
+1963   – Big Kenny, American singer-songwriter and guitarist
+1964 – Sophie B. Hawkins, American singer-songwriter and guitarist
+1965 – Patrik Ringborg, Swedish conductor
+1966 – Willie D, American rapper and entrepreneur
+1966   – Mary Hansen, Australian singer and musician (Stereolab) (d. 2002)
+1966   – Gary Howell, American businessman and politician
+1966   – Jeremy Hunt, English businessman and politician, Secretary of State for Health
+1967 – Tina Arena, Australian singer-songwriter, producer, and actress
+1967   – Carla van de Puttelaar, Dutch photographer
+1969 – Tie Domi, Canadian ice hockey player and sportscaster
+1970 – Sherwin Campbell, Barbadian cricketer
+1972 – Toni Collette, Australian actress
+1972   – Paul Dickov, Scottish footballer and manager
+1972   – Jenny McCarthy, American actress and model
+1973 – Geoff Horsfield, English footballer and manager
+1974 – V. V. S. Laxman, Indian cricketer
+1975 – Bo Bice, American singer and musician
+1975   – Keryn Jordan, South African footballer (d. 2013)
+1975   – Megan Wing, Canadian figure skater and coach
+1976 – Sergei Artyukhin, Russian-Belarusian wrestler (d. 2012)
+1978 – Danny Koevermans, Dutch footballer and manager
+1978   – Helen Czerski, English physicist and oceanographer
+1979 – Milan Dudić, Serbian footballer
+1979   – Alex Prager, American photographer and director
+1980 – Bilgin Defterli, Turkish footballer
+1982 – Bradley Orr, English footballer
+1983 – Matt Moulson, Canadian ice hockey player
+1983   – Yuko Ogura, Japanese model and singer
+1983   – Josh Wicks, American soccer player
+1983   – Jon Wilkin, English rugby player
+1984 – Miloš Krasić, Serbian footballer
+1986 – Penn Badgley, American actor and television personality
+1986   – Ksenija Balta, Estonian high jumper, sprinter, and heptathlete
+1988 – Masahiro Tanaka, Japanese baseball player
+1991 – Eyþór Arnarson, Icelandic skier
+1991   – Reece Brown, English footballer
+1991   – Jiang Yuyuan, Chinese gymnast
+1995 – Margarita Mamun, Russian gymnast
+1996 – Lil Peep, American singer and rapper (d. 2017)
+934 – Beornstan of Winchester, English bishop
+970 – Boso of Merseburg, German bishop
+1038 – Herman I, Margrave of Meissen (b. c. 980)
+1296 – Guillaume Durand, French bishop and theologian (b. 1230)
+1319 – Uguccione della Faggiuola, Italian condottieri (b. c. 1250)
+1324 – John de Halton, Bishop of Carlisle
+1391 – Amadeus VII, Count of Savoy (b. 1360)
+1399 – John IV, Duke of Brittany (b. 1339)
+1406 – Joanna, Duchess of Brabant (b. 1322)
+1423 – Nicholas Eudaimonoioannes, Byzantine diplomat
+1461 – David of Trebizond (b. 1408)
+1496 – Filippo Buonaccorsi (Filip Callimachus), Italian humanist writer (b. 1437)
+1546 – Giulio Romano, Italian painter and architect (b. 1499)
+1588 – Jean Daurat, French poet and scholar (b. 1508)
+1596 – Pierre Pithou, French lawyer and scholar (b. 1539)
+1629 – Hendrick ter Brugghen, Dutch painter (b. 1588)
+1642 – Jean Nicolet, French-Canadian explorer (b. 1598)
+1675 – Guru Tegh Bahadur, 9th Sikh Guru (b. 1621)
+1676 – Gisbertus Voetius, Dutch minister and theologian (b. 1589)
+1678 – William Coddington, American judge and politician, 1st Governor of Rhode Island (b. 1601)
+1700 – Charles II of Spain (b. 1661)
+1814 – Alexander Samoylov, Russian general and politician, Russian Minister of Justice (b. 1744)
+1888 – Nikolay Przhevalsky, Russian geographer and explorer (b. 1838)
+1894 – Alexander III of Russia (b. 1845)
+1903 – Theodor Mommsen, German archaeologist, journalist, and politician, Nobel Prize laureate (b. 1817)
+1907 – Alfred Jarry, French author and playwright (b. 1873)
+1925 – Max Linder, French actor, director, screenwriter, producer and comedian (b. 1883)
+1938 – Charles Weeghman, American businessman (b. 1874)
+1942 – Hugo Distler, German organist, composer, and conductor (b. 1908)
+1952 – Dixie Lee, American singer (b. 1911)
+1955 – Dale Carnegie, American author and educator (b. 1888)
+1958 – Yahya Kemal Beyatlı, Turkish poet, author, and diplomat (b. 1884)
+1962 – Ricardo Rodríguez, Mexican race car driver (b. 1942)
+1968 – Georgios Papandreou, Greek economist and politician, 134th Prime Minister of Greece (b. 1888)
+1970 – Robert Staughton Lynd, American sociologist and academic (b. 1892)
+1972 – Waldemar Hammenhög, Swedish author (b. 1902)
+1972   – Robert MacArthur, Canadian-American ecologist and academic (b. 1930)
+1972   – Ezra Pound, American poet and critic (b. 1885)
+1982 – James Broderick, American actor and director (b. 1927)
+1982   – King Vidor, American director, producer, and screenwriter (b. 1894)
+1983 – Anthony van Hoboken, Dutch-Swiss musicologist and author (b. 1887)
+1984 – Norman Krasna, American director, producer, and screenwriter (b. 1909)
+1985 – Arnold Pihlak, Estonian-English footballer (b. 1902)
+1985   – Phil Silvers, American actor and comedian (b. 1911)
+1986 – Serge Garant, Canadian composer and conductor (b. 1929)
+1987 – René Lévesque, Canadian journalist and politician, 23rd Premier of Quebec (b. 1922)
+1993 – Severo Ochoa, Spanish-American biochemist and academic, Nobel Prize laureate (b. 1905)
+1993   – A. N. Sherwin-White, English historian and scholar (b. 1911)
+1994 – Noah Beery, Jr., American actor (b. 1913)
+1999 – Theodore Hall, American physicist and spy (b. 1925)
+1999   – Walter Payton, American football player and race car driver (b. 1954)
+2000 – George Armstrong, English footballer and manager (b. 1944)
+2001 – John S. Romanides, Greek priest, author, and educator (b. 1928)
+2002 – Ekrem Akurgal, Turkish archaeologist and academic (b. 1911)
+2004 – Mac Dre, American rapper and producer, founded Thizz Entertainment (b. 1970)
+2004   – Terry Knight, American singer-songwriter and producer (b. 1943)
+2005 – Skitch Henderson, American pianist, composer, and conductor (b. 1918)
+2005   – Michael Piller, American screenwriter and producer (b. 1948)
+2006 – Adrienne Shelly, American actress, director, and screenwriter (b. 1966)
+2006   – William Styron, American novelist and essayist (b. 1925)
+2007 – S. Ali Raza, Indian director and screenwriter (b. 1922)
+2007   – Paul Tibbets, American general (b. 1915)
+2008 – Jacques Piccard, Swiss oceanographer and engineer (b. 1922)
+2008   – Yma Sumac, Peruvian-American soprano and actress (b. 1922/1923)
+2009 – Esther Hautzig, Lithuanian-American author (b. 1930)
+2009   – Endel Laas, Estonian scientist and academic (b. 1915)
+2009   – Robert H. Rines, American violinist and composer (b. 1922)
+2010 – Ernesto Presas, Filipino martial artist, founded Kombatan (b. 1945)
+2010   – Diana Wellesley, Duchess of Wellington (b. 1922)
+2011 – Cahit Aral, Turkish engineer and politician, Turkish Minister of Industry and Commerce (b. 1927)
+2012 – Agustín García Calvo, Spanish poet, playwright, and philosopher (b. 1926)
+2012   – Mitch Lucker, American singer (b. 1984)
+2012   – Pascual Pérez, Dominican baseball player (b. 1957)
+2013 – John Y. McCollister, American lieutenant and politician (b. 1921)
+2013   – Piet Rietveld, Dutch economist and academic (b. 1952)
+2014 – Joel Barnett, Baron Barnett, English accountant and politician, Chief Secretary to the Treasury (b. 1923)
+2014   – Jackie Fairweather, Australian runner and coach (b. 1967)
+2014   – Abednigo Ngcobo, South African footballer (b. 1950)
+2014   – Jean-Pierre Roy, Canadian-American baseball player, manager, and sportscaster (b. 1920)
+2014   – Wayne Static, American singer-songwriter and guitarist (b. 1965)
+2015 – Thomas R. Fitzgerald, American lawyer and judge (b. 1941)
+2015   – Houston McTear, American sprinter (b. 1957)
+2015   – Charles Duncan Michener, American entomologist and academic (b. 1918)
+2015   – Günter Schabowski, German journalist and politician (b. 1929)
+2015   – Fred Thompson, American actor, lawyer, and politician (b. 1942)

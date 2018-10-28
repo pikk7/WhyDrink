@@ -15,7 +15,7 @@
     <string name="action_settings">Beállítás</string>
     <string name="add_new_drink">Még egy kör</string>
     <string name="bac_image">Ez a kép tartalmazza a BAC százalékokat</string>
-    <string name="nextRSN">MÉG INDOKOT</string>
+    <string name="nextRSN">KÖVETKEZŐ INDOK</string>
     <string name="error_Count">Meg kell adnod mennyit ittál!</string>
     <string name="error_elapsed">Meg kell adnod mennyi idő telt el mióta ittál!</string>
     <string name="error_weight">Meg kell adnod a tömegedet!</string>
@@ -32,7 +32,10 @@
     <string name="glass_chose">Válassz mennyiséget!</string>
     <string name="drink_chose">Mit ittál??</string>
     <string name="sex">Nemed?</string>
-    <string name="array_end">Vége a listának. Megkeverem és újrakeverjük.</string>
-    <string name="prevRSN">ADD VISSZA AZ ELŐZŐT</string>
+    <string name="array_end">Vége a listának, így újrakezdjük. Nyomd meg a gombot úrja, a folytatáshoz!</string>
+    <string name="prevRSN">ELŐZŐ INDOK</string>
+    <string name="resetBTN">Adat nullázása</string>
+    <string name="WTFBro">Légyszíves normálisan használd</string>
+
 
 </resources>

@@ -32,7 +32,11 @@ public class MainActivity extends AppCompatActivity {
     static int count=0;
     static int place=0;
 
-    private  String LOCAL=Locale.getDefault().getLanguage();
+    public static String getLOCAL() {
+        return LOCAL;
+    }
+
+    public static String LOCAL=Locale.getDefault().getLanguage();
     @RequiresApi(api = Build.VERSION_CODES.N)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,10 +54,11 @@ public class MainActivity extends AppCompatActivity {
         b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                place++;
                 Spanned data=getReason(place);
 
                 tv1.setText(data);
-                place++;
+
                 if(place==reasons.size()){
                     place=0;
                 }
@@ -79,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
+/*
         Intent notifyIntent = new Intent(this, AlarmReceiver.class);
 
         final PendingIntent notifyPendingIntent = PendingIntent.getBroadcast
@@ -92,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
 
         alarmer.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(),
                 AlarmManager.INTERVAL_DAY, notifyPendingIntent);
-
+*/
         
         Button c = findViewById(R.id.toEQ);
 
@@ -162,6 +167,9 @@ public void reasonsInput(){
         reasonsInput();
 
         String[] data;
+        if(place>=reasons.size()-1){
+            place=0;
+        }
         if(LOCAL.equals("hu")){
              data=reasons.get(place).split(" – ",2);
 

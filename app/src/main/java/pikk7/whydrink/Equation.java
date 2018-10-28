@@ -1,31 +1,25 @@
 package pikk7.whydrink;
 
-import android.content.Context;
 import android.content.Intent;
-import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.Spannable;
 import android.text.SpannableString;
 import android.text.Spanned;
-import android.text.style.ForegroundColorSpan;
 import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
-import android.widget.SpinnerAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
 
-import static android.provider.AlarmClock.EXTRA_MESSAGE;
-
 public class Equation extends AppCompatActivity {
     ArrayList<Drink> drinks;
-    public static final String EXTRA_MESSAGE = "pikk7.whydrink.MESSAGE";
+    public static final String EXTRA_MESSAGE = "";
     public  Spinner spinnerGlass;
     public Spinner spinner;
     public Spinner spinnerDrink;
@@ -104,6 +98,11 @@ public class Equation extends AppCompatActivity {
                   Intent intent=new Intent(getApplicationContext(),ErrorActivity.class);
                   intent.putExtra(EXTRA_MESSAGE, getString(R.string.error_Count));
                   startActivity(intent);
+              }catch(Exception ext){
+                  Log.e("EveryThing", ext.getMessage(),ext);
+                  Intent intent=new Intent(getApplicationContext(),ErrorActivity.class);
+                  intent.putExtra(EXTRA_MESSAGE, getString(R.string.error_Count));
+                  startActivity(intent);
               }
 
             }
@@ -138,10 +137,16 @@ public class Equation extends AppCompatActivity {
     public void AddDrink(View view) {
 
         TextView count = findViewById(R.id.count);
-
+    Drink current=null;
         try {
             int db = Integer.parseInt(count.getText().toString());
-            Drink current = new Drink(DrinkType.valueOf(spinnerDrink.getSelectedItem().toString()), db, Glasses.valueOf((spinnerGlass.getSelectedItem().toString())));
+            if(MainActivity.getLOCAL().equals("hu")){
+                current = new Drink(DrinkTypeHu.valueOf(spinnerDrink.getSelectedItem().toString()), db, GlassesHu.valueOf((spinnerGlass.getSelectedItem().toString())));
+
+            }else{
+                current = new Drink(DrinkTypeEn.valueOf(spinnerDrink.getSelectedItem().toString()), db, GlassesEn.valueOf((spinnerGlass.getSelectedItem().toString())));
+
+            }
             drinks.add(current);
 
             count.setText("");
@@ -154,7 +159,18 @@ public class Equation extends AppCompatActivity {
             intent.putExtra(EXTRA_MESSAGE,getString(R.string.error_Count));
             startActivity(intent);
         }
+        TextView drinkList=findViewById(R.id.DrinkList);
+        String text=drinkList.getText().toString();
+        drinkList.setText(text+System.lineSeparator()+current.drinkType.toString()+" "+current.db +" "+ current.glass.toString());
+    }
 
-
+    public void Reset(View view){
+        drinks=new ArrayList<>();
+        EditText weight=findViewById(R.id.weight);
+        weight.setText("");
+        TextView drinkList=findViewById(R.id.DrinkList);
+        drinkList.setText("");
+        EditText elapsedTime=findViewById(R.id.elapsedTime);
+        elapsedTime.setText("");
     }
 }

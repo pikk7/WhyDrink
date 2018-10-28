@@ -26,29 +26,24 @@
         android:id="@+id/nextRSN"
         android:layout_width="150dp"
         android:layout_height="60dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="16dp"
         android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
         android:text="@string/nextRSN"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/prevRSN"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintBottom_toTopOf="@+id/toEQ"
+        app:layout_constraintEnd_toEndOf="parent" />
 
     <Button
         android:id="@+id/prevRSN"
         android:layout_width="150dp"
         android:layout_height="60dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:text="@string/prevRSN"
         app:layout_constraintBottom_toTopOf="@+id/toEQ"
         app:layout_constraintEnd_toStartOf="@+id/nextRSN"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.363" />
+        app:layout_constraintHorizontal_bias="0.133"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/toEQ"

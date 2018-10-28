@@ -1,25 +1,326 @@
-694  At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery.
-1456  Ulrich II, Count of Celje, last ruler of the County of Cilli, is assassinated in Belgrade.
-1620  Pilgrim Fathers|Pilgrims aboard the ''Mayflower'' sight land at Cape Cod, Massachusetts.
-1697  Pope Innocent XII founds the city of Cervia.
-1729  Spain, France and Great Britain sign the Treaty of Seville (1729)|Treaty of Seville.
-1791  Foundation of the Dublin Society of United Irishmen.
-1799  Napoleon|Napoleon Bonaparte leads the Coup of 18 Brumaire ending the French Directory|Directory government, and becoming First Consul of the successor (French Consulate|Consulate Government).
-1851  Kentucky marshals abduct abolitionist minister Calvin Fairbank from Jeffersonville, Indiana, and take him to Kentucky to stand trial for helping a slave escape.
-1861  The first documented Canadian football|football match in Canada is played at University College, Toronto.
-1867  Tokugawa shogunate hands power back to the Emperor of Japan, starting the Meiji Restoration.
-1872  The Great Boston Fire of 1872.
-1883  The 90th Winnipeg Battalion of Rifles, (later the Royal Winnipeg Rifles) of the Canadian Armed Forces is founded.
-1887  The United States receives rights to Pearl Harbor, Hawaii.
-1906  Theodore Roosevelt is the first sitting President of the United States to make an List of international trips made by the President of the United States#Theodore Roosevelt|official trip outside the country. He did so to inspect progress on the Panama Canal.
-1935  The Congress of Industrial Organizations is founded in Atlantic City, New Jersey, by eight trade unions belonging to the American Federation of Labor.
-1953  Cambodia gains independence from France.
-1960  Robert McNamara is named president of Ford Motor Company, the first non-Ford to serve in that post. A month later, he resigned to join the administration of newly elected John F. Kennedy.
-1965  Several U.S. states and parts of Canada are hit by a series of Power outage|blackouts lasting up to 13 hours in the Northeast blackout of 1965.
-1967  Apollo program: NASA launches the unmanned Apollo 4 test spacecraft atop the first Saturn V rocket from Cape Kennedy, Florida.
-1967    The first issue of ''Rolling Stone'' magazine is published.
-1985  Garry Kasparov, 22, of the Soviet Union becomes the youngest World Chess Champion by beating fellow Soviet Anatoly Karpov.
-1994  The chemical element darmstadtium is discovered.
-1998  A U.S. federal judge, in the largest civil settlement in American history, orders 37 U.S. brokerage houses to pay US$1.03 billion to cheated NASDAQ investors to compensate for price fixing.
-2005  The Venus Express mission of the European Space Agency is launched from the Baikonur Cosmodrome in Kazakhstan.
-2007  The German Bundestag passes the controversial Telecommunications data retention|data retention bill mandating storage of citizens' telecommunications traffic data for six months without probable cause.
+694 – At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery.
+1456 – Ulrich II, Count of Celje, last ruler of the County of Cilli, is assassinated in Belgrade.
+1620 – Pilgrims aboard the Mayflower sight land at Cape Cod, Massachusetts.
+1697 – Pope Innocent XII founds the city of Cervia.
+1729 – Spain, France and Great Britain sign the Treaty of Seville.
+1791 – Foundation of the Dublin Society of United Irishmen.
+1799 – Napoleon Bonaparte leads the Coup of 18 Brumaire ending the Directory government, and becoming First Consul of the successor (Consulate Government).
+1851 – Kentucky marshals abduct abolitionist minister Calvin Fairbank from Jeffersonville, Indiana, and take him to Kentucky to stand trial for helping a slave escape.
+1861 – The first documented football match in Canada is played at University College, Toronto.
+1867 – Tokugawa shogunate hands power back to the Emperor of Japan, starting the Meiji Restoration.
+1872 – The Great Boston Fire of 1872.
+1883 – The 90th Winnipeg Battalion of Rifles, (later the Royal Winnipeg Rifles) of the Canadian Armed Forces is founded.
+1887 – The United States receives rights to Pearl Harbor, Hawaii.
+1888 – The mutilated body of Mary Jane Kelly, believed to be the final victim of Jack the Ripper, is discovered in Spitalfields, London, England.
+1906 – Theodore Roosevelt is the first sitting President of the United States to make an official trip outside the country. He did so to inspect progress on the Panama Canal.
+1935 – The Congress of Industrial Organizations is founded in Atlantic City, New Jersey, by eight trade unions belonging to the American Federation of Labor.
+1953 – Cambodia gains independence from France.
+1960 – Robert McNamara is named president of Ford Motor Company, the first non-Ford to serve in that post. A month later, he resigned to join the administration of newly elected John F. Kennedy.
+1965 – Several U.S. states and parts of Canada are hit by a series of blackouts lasting up to 13 hours in the Northeast blackout of 1965.
+1967 – Apollo program: NASA launches the unmanned Apollo 4 test spacecraft atop the first Saturn V rocket from Cape Kennedy, Florida.
+1967   – The first issue of Rolling Stone magazine is published.
+1985 – Garry Kasparov, 22, of the Soviet Union becomes the youngest World Chess Champion by beating fellow Soviet Anatoly Karpov.
+1994 – The chemical element darmstadtium is discovered.
+1998 – A U.S. federal judge, in the largest civil settlement in American history, orders 37 U.S. brokerage houses to pay US$1.03 billion to cheated NASDAQ investors to compensate for price fixing.
+2005 – The Venus Express mission of the European Space Agency is launched from the Baikonur Cosmodrome in Kazakhstan.
+2007 – The German Bundestag passes the controversial data retention bill mandating storage of citizens' telecommunications traffic data for six months without probable cause.
+2016 – Donald Trump is declared the winner of the US Presidential Election
+955 – Gyeongjong, Korean king (d. 981)
+1383 – Niccolò III d'Este, Marquis of Ferrara (d. 1441)
+1389 – Isabella of Valois, queen consort of England (d. 1409)
+1414 – Albrecht III Achilles, Elector of Brandenburg (d. 1486)
+1467 – Charles II, Duke of Guelders, count of Zutphen from 1492 (d. 1538)
+1467   – Philippa of Guelders, twin sister of Charles II, Dutch duchess consort (d. 1547)
+1522 – Martin Chemnitz, German astrologer and theologian (d. 1586)
+1535 – Nanda Bayin, king of Burma (d. 1600)
+1580 – Johannes Narssius, Dutch physician and poet (d. 1637)
+1606 – Hermann Conring, German philosopher and educator (d. 1681)
+1664 – Johann Speth, German organist and composer (d. 1719)
+1664   – Henry Wharton, English librarian and author (d. 1695)
+1697 – Claudio Casciolini, Italian singer and composer (d. 1760)
+1719 – Domenico Lorenzo Ponziani, Italian priest, theoretician, and academic (d. 1796)
+1721 – Mark Akenside, English physician and poet (d. 1770)
+1723 – Anna Amalia, Abbess of Quedlinburg (d. 1787)
+1731 – Benjamin Banneker, American farmer, surveyor, and author (d. 1806)
+1732 – Jeanne Julie Éléonore de Lespinasse, French businesswoman and author (d. 1776)
+1773 – Thomasine Christine Gyllembourg-Ehrensvärd, Danish author (d. 1856)
+1799 – Gustav, Prince of Vasa (d. 1877)
+1801 – Gail Borden, American surveyor and publisher, invented condensed milk (d. 1874)
+1802 – Elijah Parish Lovejoy, American minister, journalist, and activist (d. 1837)
+1810 – Bernhard von Langenbeck, German general, surgeon, and academic (d. 1887)
+1818 – Ivan Turgenev, Russian author and playwright (d. 1883)
+1825 – A. P. Hill, American general (d. 1865)
+1829 – Peter Lumsden, English general (d. 1918)
+1832 – Émile Gaboriau, French author and journalist (d. 1873)
+1840 – Joseph-Adolphe Chapleau, Canadian lawyer and politician, 5th Premier of Quebec (d. 1898)
+1850 – Louis Lewin, German pharmacologist and academic (d. 1929)
+1853 – Stanford White, American architect and partner, co-founded McKim, Mead & White (d. 1906)
+1854 – Maud Howe Elliott, American activist and author (d. 1948)
+1862 – Gigo Gabashvili, Georgian painter and educator (d. 1936)
+1867 – Shrimad Rajchandra, a Jain philosopher, spiritual mentor of Mahatma Gandhi (d. 1901)
+1869 – Marie Dressler, Canadian-American actress and singer (d. 1934)
+1871 – Florence R. Sabin, American medical scientist (d. 1953)
+1872 – Bohdan Lepky, Ukrainian author and poet (d. 1941)
+1873 – Otfrid Foerster, German neurologist and surgeon (d. 1941)
+1874 – Albert Francis Blakeslee, American botanist and academic (d. 1954)
+1877 – Enrico De Nicola, Italian journalist, lawyer, and politician, 1st President of the Italian Republic (d. 1959)
+1877   – Muhammad Iqbal, Pakistani philosopher, poet, and politician (d. 1938)
+1878 – Ahn Changho, Korean activist and politician (d. 1938)
+1879 – Jenő Bory, Hungarian architect and sculptor (d. 1959)
+1879   – S. O. Davies, Welsh union leader and politician (d. 1972)
+1879   – Milan Šufflay, Croatian historian and politician (d. 1931)
+1880 – Giles Gilbert Scott, English architect, designed the red telephone box (d. 1960)
+1883 – Edna May Oliver, American actress (d. 1942)
+1885 – Theodor Kaluza, German mathematician and physicist (d. 1954)
+1885   – Velimir Khlebnikov, Russian poet and playwright (d. 1922)
+1885   – Aureliano Pertile, Italian tenor and educator (d. 1952)
+1885   – Hermann Weyl, German mathematician, physicist, and philosopher (d. 1955)
+1886 – Ed Wynn, American actor (d. 1966)
+1888 – Jean Monnet, French economist and diplomat (d. 1979)
+1891 – Louisa E. Rhine, American botanist and parapsychologist (d. 1983)
+1892 – Mabel Normand, American actress (d. 1930)
+1894 – Mae Marsh, American actress (d. 1968)
+1897 – Harvey Hendrick, American baseball player (d. 1941)
+1897   – Ronald George Wreyford Norrish, English chemist and academic, Nobel Prize laureate (d. 1978)
+1900 – Oskar Loorits, Estonian author and academic (d. 1961)
+1902 – Anthony Asquith, English director and screenwriter (d. 1968)
+1904 – Viktor Brack, German SS officer (d. 1948)
+1904   – Heiti Talvik, Estonian poet (d. 1947)
+1905 – Erika Mann, German-Swiss actress and author (d. 1969)
+1906 – Arthur Rudolph, German scientist and engineer (d. 1996)
+1913 – Paulene Myers, American actress (d. 1996)
+1914 – Thomas Berry, American priest, historian, and theologian (d. 2009)
+1914 – Hedy Lamarr, Austrian-American actress and inventor (d. 2000)
+1915 – André François, Romanian-French illustrator, painter, and sculptor (d. 2005)
+1915   – Sargent Shriver, American lieutenant, lawyer, and politician, 21st United States Ambassador to France (d. 2011)
+1916 – Martha Settle Putney, American lieutenant, historian, and educator (d. 2008)
+1918   – Florence Chadwick, American swimmer (d. 1995)
+1918   – Thomas Ferebee, American colonel (d. 2000)
+1918   – Choi Hong Hi, South Korean general and martial artist, co-founded taekwondo (d. 2002)
+1919 – Eva Todor, Brazilian actress (d. 2017)
+1920 – Byron De La Beckwith, American assassin of Medgar Evers (d. 2001)
+1920   – Philip G. Hodge, American engineer and academic (d. 2014)
+1921 – Pierrette Alarie, Canadian soprano and actress (d. 2011)
+1921   – Viktor Chukarin, Ukrainian gymnast and coach (d. 1984)
+1922 – Dorothy Dandridge, American actress, singer, and dancer (d. 1965)
+1922   – Raymond Devos, Belgian-French comedian and clown (d. 2006)
+1922   – Imre Lakatos, Hungarian mathematician, philosopher, and academic (d. 1974)
+1923 – Alice Coachman, American high jumper (d. 2014)
+1923   – Elizabeth Hawley, American-Nepali journalist and historian (d. 2018)
+1923   – James Schuyler, American poet and author (d. 1991)
+1924 – Robert Frank, Swiss-American photographer and director
+1925 – Alistair Horne, English-American journalist, historian, and author (d. 2017)
+1926 – Vicente Aranda, Spanish director, producer, and screenwriter (d. 2015)
+1926   – Luis Miguel Dominguín, Spanish bullfighter (d. 1996)
+1928 – Anne Sexton, American poet and academic (d. 1974)
+1929 – Marc Favreau, Canadian actor and poet (d. 2005)
+1929   – Imre Kertész, Hungarian author, Nobel Prize laureate (d. 2016)
+1931 – Whitey Herzog, American baseball player and manager
+1931   – George Witt, American baseball player and coach (d. 2013)
+1931   – Valery Shumakov, Russian surgeon and transplantologist (d. 2008)
+1933 – Ed Corney, American professional bodybuilder
+1934 – Ingvar Carlsson, Swedish economist and politician, 29th Prime Minister of Sweden
+1934   – Ronald Harwood, South African author, playwright, and screenwriter
+1934   – Carl Sagan, American astronomer, astrophysicist, and cosmologist (d. 1996)
+1935 – Bob Gibson, American baseball player and manager
+1935   – David Wolfson, Baron Wolfson of Sunningdale, English businessman and politician
+1936 – Bob Graham, American lawyer and politician, 38th Governor of Florida
+1936   – Mikhail Tal, Latvian-Russian chess player and author (d. 1992)
+1936   – Mary Travers, American singer-songwriter (d. 2009)
+1937 – Roger McGough, English author, poet, and playwright
+1937   – Donald Trelford, English journalist and academic
+1937   – Clyde Wells, Canadian lawyer and politician, 5th Premier of Newfoundland
+1938 – Ti-Grace Atkinson, American author and critic
+1939 – Paul Cameron, American psychologist and academic
+1939   – Bryan Davies, Baron Davies of Oldham, English academic and politician
+1941 – David Constant, English cricketer and umpire
+1941   – Tom Fogerty, American singer-songwriter and guitarist (d. 1990)
+1941   – John Singleton, Australian businessman
+1942 – Victor Blank, English businessman and philanthropist
+1942   – Tom Weiskopf, American golfer and sportscaster
+1944 – Chitresh Das, Indian dancer and choreographer (d. 2015)
+1944   – Phil May, English singer-songwriter
+1945 – Moeletsi Mbeki, South African economist and academic
+1946 – Benny Mardones, American singer-songwriter
+1947 – Robert David Hall, American actor, singer, and pianist
+1948 – Bille August, Danish director, cinematographer, and screenwriter
+1948   – Joe Bouchard, American bass player and songwriter
+1948   – Jane Humphries, English economist, historian, and academic
+1948   – Michel Pagliaro, Canadian singer-songwriter and guitarist
+1948   – Luiz Felipe Scolari, Brazilian footballer and manager
+1950 – Parekura Horomia, New Zealand politician, 40th Minister of Māori Affairs (d. 2013)
+1951 – Lou Ferrigno, American bodybuilder and actor
+1952 – Sherrod Brown, American academic and politician
+1952   – Jim Riggleman, American baseball player, coach, and manager
+1953 – Gaétan Hart, Canadian boxer
+1954 – Aed Carabao, Thai singer-songwriter and guitarist
+1955 – Fernando Meirelles, Brazilian director, producer, and screenwriter
+1955   – Bob Nault, Canadian lawyer and politician
+1960 – Andreas Brehme, German footballer and manager
+1960   – Demetra Plakas, American drummer
+1960   – Sarah Franklin, American-English anthropologist and academic
+1961 – Jill Dando, English journalist (d. 1999)
+1964 – Robert Duncan McNeill, American actor, director, and producer
+1965 – Daphne Guinness, English-Irish model and actress
+1965   – Andrei Lapushkin, Russian footballer
+1965   – Bryn Terfel, Welsh opera singer
+1967 – Ricky Otto, English footballer
+1968 – Nazzareno Carusi, Italian pianist and educator
+1968   – Colin Hay, English political scientist, author, and academic
+1969 – Sandra Denton, Jamaican-American rapper and actress
+1969   – Ramona Milano, Canadian actress
+1969   – Roxanne Shanté, American rapper
+1969   – Allison Wolfe, American singer-songwriter
+1970   – Domino, American DJ and producer
+1970   – Guido Görtzen, Dutch volleyball player
+1970   – Bill Guerin, American ice hockey player and coach
+1970   – Chris Jericho, American-Canadian wrestler
+1970   – Scarface, American rapper and producer
+1970   – Susan Tedeschi, American singer-songwriter and guitarist
+1971 – David Duval, American golfer and sportscaster
+1971   – Sabri Lamouchi, French footballer and manager
+1972 – Eric Dane, American actor
+1972   – Naomi Shindō, Japanese voice actress and singer
+1972   – Corin Tucker, American singer-songwriter and guitarist
+1973 – Alyson Court, Canadian actress and producer
+1973   – Nick Lachey, American singer-songwriter, producer, and actor
+1973   – Gabrielle Miller, Canadian actress and director
+1973   – Zisis Vryzas, Greek footballer and coach
+1974 – Alessandro Del Piero, Italian footballer
+1974   – Giovanna Mezzogiorno, Italian actress
+1975 – Gareth Malone, English singer and conductor
+1975   – Mathew Sinclair, New Zealand cricketer
+1976 – Tochiazuma Daisuke, Japanese sumo wrestler
+1977 – Chris Morgan, English footballer and manager
+1977   – Omar Trujillo, Mexican footballer
+1978 – Steven López, American martial artist
+1978   – Even Ormestad, Norwegian bass player and producer
+1978   – Sisqó, American singer-songwriter, producer, and actor
+1979 – Dave Bush, American baseball player
+1979   – Caroline Flack, English television presenter, radio presenter, and model
+1979   – Adam Dunn, American baseball player
+1979   – Martin Taylor, English footballer
+1980 – James Harper, English footballer
+1980   – Vanessa Lachey, Filipino-American television host and actress
+1980   – Dominique Maltais, Canadian snowboarder
+1981 – Eyedea, American rapper and producer (d. 2010)
+1981   – Kane Waselenchuk, Canadian racquetball player
+1981   – Jobi McAnuff, Jamaican footballer
+1982 – Boaz Myhill, American-Welsh footballer
+1982   – Jana Pittman, Australian hurdler
+1983 – Rob Elloway, German rugby player
+1983   – Ted Potter Jr., American golfer
+1983   – Michael Turner, English footballer
+1984 – Delta Goodrem, Australian singer-songwriter, pianist, and actress
+1984   – Seven, South Korean singer, dancer, and actor
+1984 – Ku Hye Sun, South Korean actress, director, singer
+1985 – Bakary Soumaré, Malian footballer
+1986 – Carl Gunnarsson, Swedish ice hockey player
+1987 – Raul Must, Estonian badminton player
+1988 – Nikki Blonsky, American actress, singer, and dancer
+1988   – Analeigh Tipton, American model, actress, and figure skater
+1989 – Baptiste Giabiconi, French model and singer
+1990 – Nosa Igiebor, Nigerian footballer
+1993 – Pete Dunne, English wrestler and promoter
+959 – Constantine VII, Byzantine emperor (b. 905)
+1034 – Oldřich, Duke of Bohemia (b. c. 975)
+1187 – Emperor Gaozong of Song (b. 1107)
+1208 – Sancha of Castile, Queen of Aragon (b. 1154)
+1261 – Sanchia of Provence, queen consort of Germany
+1286 – Roger Northwode, English statesman (b. 1230)
+1312 – Otto III, Duke of Bavaria (b. 1261)
+1321 – Walter Langton, bishop of Lichfield and treasurer of England (b. 1243)
+1456 – Ulrich II, Count of Celje (b. 1406)
+1492 – Jami, Persian poet (b. 1414)
+1596 – George Peele, English translator, poet, and dramatist (b. 1556)
+1623 – William Camden, English historian and topographer (b. 1551)
+1641 – Cardinal-Infante Ferdinand of Austria (b. 1610)
+1677 – Aert van der Neer, Dutch painter (b. 1603)
+1766 – Unico Wilhelm van Wassenaer, Dutch composer and diplomat (b. 1692)
+1770 – John Campbell, 4th Duke of Argyll, Scottish general and politician (b. 1693)
+1778 – Giovanni Battista Piranesi, Italian sculptor and illustrator (b. 1720)
+1801 – Carl Stamitz, German-Czech violinist and composer (b. 1745)
+1809 – Paul Sandby, English painter and cartographer (b. 1725)
+1848 – Robert Blum, German poet and politician (b. 1810)
+1854 – Elizabeth Schuyler Hamilton, wife/widow of Alexander Hamilton and co-founder of the first private orphanage in New York (b. 1757)
+1880 – Edwin Drake, American businessman (b. 1819)
+1918 – Guillaume Apollinaire, Italian-French author, poet, and playwright (b. 1880)
+1918   – Peter Lumsden, English general (b. 1829)
+1919 – Eduard Müller, Swiss lawyer and politician, 26th President of the Swiss Confederation (b. 1848)
+1924 – Henry Cabot Lodge, American historian and politician (b. 1850)
+1932 – Nadezhda Alliluyeva, second wife of Joseph Stalin (b. 1901)
+1937 – Ramsay MacDonald, Scottish journalist and politician, Prime Minister of the United Kingdom (b. 1866)
+1938 – Vasily Blyukher, Russian marshal (b. 1889)
+1940 – Stephen Alencastre, Portuguese-American bishop (b. 1876)
+1940   – Neville Chamberlain, English businessman and politician, Prime Minister of the United Kingdom (b. 1869)
+1942 – Charles Courtney Curran, American painter (b. 1861)
+1942   – Edna May Oliver, American actress (b. 1883)
+1944 – Frank Marshall, American chess player and theoretician (b. 1877)
+1951 – Sigmund Romberg, Hungarian-American pianist and composer (b. 1887)
+1952 – Philip Murray, Scottish-American labor leader (b. 1886)
+1952   – Chaim Weizmann, Belarusian-Israeli chemist, academic, and politician, 1st President of Israel (b. 1874)
+1953 – Louise DeKoven Bowen, American philanthropist and activist (b. 1859)
+1953   – Ibn Saud, Saudi Arabian king (b. 1880)
+1953   – Dylan Thomas, Welsh poet and author (b. 1914)
+1956 – Aino Kallas, Finnish-Estonian author (b. 1878)
+1957 – Peter O'Connor, Irish long jumper (b. 1872)
+1962 – Dhondo Keshav Karve, Indian activist and academic (b. 1858)
+1968 – Jan Johansson, Swedish pianist (b. 1931)
+1970 – Charles de Gaulle, French general and politician, 18th President of France (b. 1890)
+1971 – Maude Fealy, American actress and screenwriter (b. 1883)
+1972 – Victor Adamson; American director, producer, screenwriter, and actor (b. 1890)
+1976 – Armas Taipale, Finnish discus thrower and shot putter (b. 1890)
+1977 – Fred Haney, American baseball player, coach, and manager (b. 1898)
+1985 – Marie-Georges Pascal, French actress (b. 1946)
+1988 – David Bauer, Canadian ice hockey player, coach, and priest (b. 1924)
+1988   – John N. Mitchell, American lieutenant, lawyer, and politician, 67th United States Attorney General (b. 1913)
+1988   – Rosemary Timperley, English author and screenwriter (b. 1920)
+1989 – Bill Neilson, Australian politician, 34th Premier of Tasmania (b. 1925)
+1991 – Yves Montand, Italian-French actor (b. 1921)
+1992 – Charles Fraser-Smith, English missionary and author (b. 1904)
+1992   – William Hillcourt, Danish-American scout leader and author (b. 1900)
+1992   – T. Sivasithamparam, Sri Lankan politician (b. 1926)
+1993 – Ross Andru, American illustrator (b. 1925)
+1997 – Carl Gustav Hempel, German philosopher from the Vienna and the Berlin Circle (b. 1905)
+1997   – Helenio Herrera, Argentinian-Italian footballer and manager (b. 1910)
+1999 – Mabel King, American actress and singer (b. 1932)
+2000 – Sherwood Johnston, American race car driver (b. 1927)
+2000   – Eric Morley, English television host, founded Miss World (b. 1918)
+2001 – Niels Jannasch, Canadian historian and curator (b. 1924)
+2001   – Giovanni Leone, Italian lawyer and politician, 6th President of Italy (b. 1908)
+2002 – William Schutz, American psychologist and academic (b. 1925)
+2003 – Art Carney, American actor and comedian (b. 1918)
+2003   – Gordon Onslow Ford, English-American painter (b. 1912)
+2003   – Mario Merz, Italian artist (b. 1925)
+2003   – Binod Bihari Verma, Indian physician and author (b. 1937)
+2004 – Iris Chang, American historian, journalist, and author (b. 1968)
+2004   – Emlyn Hughes, English footballer and manager (b. 1947)
+2004   – Stieg Larsson, Swedish journalist and author (b. 1954)
+2005 – K. R. Narayanan, Indian journalist and politician, 10th President of India (b. 1921)
+2006 – Ed Bradley, American journalist (b. 1941)
+2006   – Ellen Willis, American journalist and activist (b. 1941)
+2006   – Markus Wolf, German intelligence officer (b. 1923)
+2008 – Hans Freeman,  Australian bioinorganic chemist and protein crystallographer (b. 1929)
+2008   – Miriam Makeba, South African singer and activist (b. 1932)
+2012 – Milan Čič, Slovak lawyer and politician, 5th Prime Minister of the Slovak Socialist Republic (b. 1932)
+2012   – Sergey Nikolsky, Russian mathematician and academic (b. 1905)
+2012   – James L. Stone, American colonel, Medal of Honor recipient (b. 1922)
+2013 – Savaş Ay, Turkish journalist (b. 1954)
+2013   – Grethe Rytter Hasle, Norwegian biologist and academic (b. 1920)
+2013   – Kalaparusha Maurice McIntyre, American saxophonist (b. 1936)
+2013   – Steve Prescott, English rugby player (b. 1973)
+2013   – Emile Zuckerkandl, Austrian-American biologist and academic (b. 1922)
+2014 – Rubén Alvarez, Argentinian golfer (b. 1961)
+2014   – Saud bin Muhammed Al Thani, Qatari prince (b. 1966)
+2014   – R. A. Montgomery, American author and publisher (b. 1936)
+2014   – Myles Munroe, Bahamian pastor and author (b. 1954)
+2014   – Orlando Thomas, American football player (b. 1972)
+2014   – Joe Walsh, Irish politician, Minister for Agriculture, Food and the Marine (b. 1943)
+2015 – Carol Doda, American actress and dancer (b. 1937)
+2015   – Ernst Fuchs, Austrian painter, sculptor, and illustrator (b. 1930)
+2015   – Tommy Hanson, American baseball player (b. 1986)
+2015   – Byron Krieger, American fencer (b. 1920)
+2015   – Andy White, Scottish drummer (b. 1930)
+2016 – Greg Ballard, American basketball player and coach (b. 1955)
+2017 – Chuck Mosley, American singer songwriter (b. 1959)
+2017   – Shyla Stylez, Canadian pornographic actress (b. 1982)
