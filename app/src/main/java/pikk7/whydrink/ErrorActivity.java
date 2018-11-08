@@ -1,8 +1,11 @@
 package pikk7.whydrink;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
+import android.support.v7.app.ActionBar;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.widget.TextView;
 
 public class ErrorActivity extends AppCompatActivity {
@@ -16,8 +19,14 @@ public class ErrorActivity extends AppCompatActivity {
 
         // Capture the layout's TextView and set the string as its text
         TextView resultText = findViewById(R.id.error);
-        String text=message;
-        resultText.setText(text);
+        resultText.setText(message);
 
+        Toolbar myToolbar = findViewById(R.id.my_toolbar);
+        setSupportActionBar(myToolbar);
+        ActionBar ab = getSupportActionBar();
+        PreferenceManager.setDefaultValues(this, R.xml.preferences, false);
+
+        // Enable the Up button
+        ab.setDisplayHomeAsUpEnabled(true);
     }
 }

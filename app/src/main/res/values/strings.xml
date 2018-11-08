@@ -1,22 +1,18 @@
 <resources>
-    <string name="app_name">Why Drink Today</string>
+    <string name="app_name" translatable="false">Why Drink Today</string>
     <string name="nextRSN">NEXT REASON</string>
     <string name="error_if_you_see_this">Error if you see this</string>
-    <string name="title_activity_calculate">Blood Alcohol</string>
     <string name="calculate">Calculate</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="calcButtonText">Calculate BAC</string>
     <string name="weight">Weight (kg)</string>
-    <string name="How_many">How many hours elapsed?</string>
     <string name="startTime">Elapsed time from start</string>
     <string name="drink_count">Count</string>
     <string name="title_activity_result">Result</string>
     <string name="action_settings">Settings</string>
     <string name="add_new_drink">Add new drink</string>
-    <string name="bac_image">This image contains the effect of the bac percents</string>
     <string name="error_Count">You have to give the count of drinks!</string>
-    <string name="error_elapsed">You have to give the elapsed time from the start!</string>
     <string name="error_weight">You have to give your weight!</string>
     <string name="glass">glass</string>
     <string name="jug">jug</string>
@@ -34,5 +30,23 @@
     <string name="array_end">End of the list and restart. Press the button for the restart!</string>
     <string name="prevRSN">PREVIOUS REASON</string>
     <string name="resetBTN">Reset data</string>
-    <string name="WTFBro">Please use the app normal way.</string>
+    <string name="languages_settings">Language settings</string>
+    <string name="en">English</string>
+    <string name="hu">Hungarian</string>
+    <string name="not_null">Give bigger number than zero!</string>
+    <string name="content_text">A reason from today</string>
+    <string name="en_value" translatable="false">en</string>
+    <string name="hu_values" translatable="false">hu</string>
+    <string name="credits">Credits</string>
+    <string name="emese_name">Emese Póti</string>
+    <string name="balint_name">Albert Bálint Nagy (Nighter)</string>
+    <string name="timi_name">"Tímea Bartucz "</string>
+    <string name="title_activity_credits" translatable="false">@string/credits</string>
+    <string name="developer">Developer:</string>
+    <string name="my_name">Csaba Sörös (Pikk7)</string>
+    <string name="tester">Tester:</string>
+    <string name="szandi_name">Alexandra Kis</string>
+    <string name="anna_name">Anna Mezei</string>
+    <string name="emesepoti" translatable="false">\@emesepoti</string>
+    <string name="pikk7" translatable="false">\@Pikk7</string>
 </resources>

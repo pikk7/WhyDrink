@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<ListPreference
+    android:key="@string/languages_settings"
+    android:title="@string/languages_settings"
+    android:entries="@array/languages_array"
+    android:entryValues="@array/languages_array_values"
+    android:defaultValue="hu"/>
+</PreferenceScreen>

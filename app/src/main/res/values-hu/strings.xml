@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Ma miért iszom?</string>
     <string name="error_if_you_see_this">Hiba ha ezt látod</string>
-    <string name="title_activity_calculate">"Véralkohol "</string>
     <string name="calculate">Számol</string>
     <string name="male">Férfi</string>
     <string name="female">Nő</string>
     <string name="calcButtonText">Véralkohol számítás</string>
     <string name="weight">Tömeg (kg)</string>
-    <string name="How_many">Mennyi óratelt el?</string>
     <string name="startTime">Eltelt idő</string>
     <string name="drink_count">Darab</string>
     <string name="title_activity_result">Eredmény</string>
     <string name="action_settings">Beállítás</string>
     <string name="add_new_drink">Még egy kör</string>
-    <string name="bac_image">Ez a kép tartalmazza a BAC százalékokat</string>
     <string name="nextRSN">KÖVETKEZŐ INDOK</string>
     <string name="error_Count">Meg kell adnod mennyit ittál!</string>
-    <string name="error_elapsed">Meg kell adnod mennyi idő telt el mióta ittál!</string>
     <string name="error_weight">Meg kell adnod a tömegedet!</string>
     <string name="glass">pohár</string>
     <string name="jug">korsó</string>
@@ -29,13 +24,24 @@
     <string name="whiskey">whiskey</string>
     <string name="gin">gin</string>
     <string name="champagne">pezsgő</string>
-    <string name="glass_chose">Válassz mennyiséget!</string>
+    <string name="glass_chose">Válassz \n mennyiséget!</string>
     <string name="drink_chose">Mit ittál??</string>
     <string name="sex">Nemed?</string>
     <string name="array_end">Vége a listának, így újrakezdjük. Nyomd meg a gombot úrja, a folytatáshoz!</string>
     <string name="prevRSN">ELŐZŐ INDOK</string>
     <string name="resetBTN">Adat nullázása</string>
-    <string name="WTFBro">Légyszíves normálisan használd</string>
-
-
+    <string name="languages_settings">Nyelv beállítása</string>
+    <string name="not_null">Nullánál nagyobb számot adj meg!</string>
+    <string name="content_text">Egy ok mára</string>
+    <string name="en">Angol</string>
+    <string name="hu">Magyar</string>
+    <string name="credits">Készítette</string>
+    <string name="emese_name">Póti Emese</string>
+    <string name="balint_name">Nagy Albert Bálint (Nighter)</string>
+    <string name="timi_name">Bartucz Tímea</string>
+    <string name="developer">"Fejlesztő: "</string>
+    <string name="my_name">Sörös Csaba (Pikk7)</string>
+    <string name="tester">Tesztelő:</string>
+    <string name="szandi_name">"Kis Alexandra "</string>
+    <string name="anna_name">Mezei Anna</string>
 </resources>
