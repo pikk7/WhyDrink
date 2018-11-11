@@ -40,10 +40,6 @@ public class LangugesSettingsActivity extends PreferenceActivity implements  Sha
             connectionPref.setSummary(sharedPreferences.getString(key, ""));
             String code=connectionPref.toString();
 
-
-
-
-
             SharedPreferences sharedPref = MainActivity.getInstance().getPreferences(Context.MODE_PRIVATE);
             SharedPreferences.Editor editor = sharedPref.edit();
             editor.putString(getString(R.string.languages_settings),code );
